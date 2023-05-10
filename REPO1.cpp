@@ -6,4 +6,6 @@ public:
 	void showNim(); //deklarasi method
 };
 void mahasiswa::showNim() { //implementasi method deluar class
-	
+	cout << "no induk =" << nim << endl;
+
+}
