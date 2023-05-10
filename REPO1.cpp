@@ -9,3 +9,4 @@ void mahasiswa::showNim() { //implementasi method deluar class
 	cout << "no induk =" << nim << endl;
 
 }
+int main()
